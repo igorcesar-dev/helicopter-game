@@ -1,4 +1,4 @@
-# A fuga - Helicopter Game
+# Resgate - Helicopter Game
 
 ## Sobre o projeto:
 
