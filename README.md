@@ -7,7 +7,7 @@ Este projeto foi elaborado na bootcamp Take Blip Web Developer, pertecente à pl
 ## Funcionamento do projeto:
 
 <p align="center">
-  <img width="720px" src="">
+  <img width="800px" src="assets/img/helicopterproject.gif">
 </p>
 
 ## Tecnologias utilizadas:
